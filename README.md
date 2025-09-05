@@ -26,6 +26,6 @@ QuickFresh एक पूर्णतः भारत-केंद्रित �
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-username/quickfresh-india.git
+git clone https://github.com/Snakzap/quickfresh-india.git
 cd quickfresh-india
 docker-compose up --build
